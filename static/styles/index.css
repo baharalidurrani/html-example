@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+}
+
+.root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
